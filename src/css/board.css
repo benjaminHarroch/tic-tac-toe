@@ -1,0 +1,30 @@
+
+.container-board{
+
+    margin-top: 5em;
+    width: 485px;
+    height: 370px;
+    display: flex;
+    flex-wrap:wrap;
+    
+
+}
+
+
+.buttonRestart{
+
+
+    margin: 2em 7em;
+    padding: 1em 6em;
+    background-color: cadetblue;
+    border-radius: 6px;
+    font-weight: 500;
+
+}
+
+.buttonRestart:hover{
+
+    box-shadow: 2px black;
+    opacity: 0.8;
+
+}
